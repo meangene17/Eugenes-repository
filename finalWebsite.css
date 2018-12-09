@@ -1,0 +1,152 @@
+body {
+	background-color:#6381a8;
+	text-align:center;
+}
+h1 {
+	background-color:#d6af4c;
+	color:#546987;
+	position:fixed;
+	text-align: center;
+	font-family:"arial", arial;
+	font-weight: bold;
+	padding:10px 0px 10px 0px;
+	border-style:outset; 
+	border-color:#b3913c;
+	top:-21px;
+	left:0;
+	right:0;
+	width:100%;
+	clear:both;
+}
+#rightBody{
+	float:right;
+	right:50px;
+	font-family:"arial", arial;
+	width:70%;
+	height:60%;
+	padding-bottom:300px;
+}
+script{
+	float:right;
+	right:50px;
+	width:70%;
+	height:60%;
+	padding-bottom:300px;
+}
+#para{
+	color:
+}
+
+#gravy{
+	max-width: 45%;
+	height: auto;
+	border-radius: 8px
+}
+
+
+#nav1{
+	color:#546987;
+	float:left;
+	left:0px;
+	width:25%;
+	height:78%;
+	font-family:"arial", arial;
+	background-color:#d6af4c;
+	border-color:#b3913c;
+	border-radius:8px;
+	padding:5px;
+	position:fixed;
+	border-style:inset;  
+	text-align: center;	
+}
+#nav2{
+	color:#546987;
+	float:left;
+	left:0px;
+	width:25%;
+	height:78%;
+	font-family:"arial", arial;
+	background-color:#d6af4c;
+	border-color:#b3913c;
+	padding:5px;
+	position:fixed;
+	border-style:inset;    
+	text-align: center;	
+}
+#nav3{
+	color:#546987;
+	float:left;
+	left:0px;
+	width:25%;
+	height:78%;
+	font-family:"arial", arial;
+	background-color:#d6af4c;
+	border-color:#b3913c;
+	padding:5px;
+	position:fixed;
+	border-style:inset;  
+	text-align: center;
+}
+#credits{
+	background-color:#d6af4c;
+	border-color:#b3913c;
+	color:#6381a8;
+	position:fixed;
+	text-align:center;
+	bottom:-16px;
+	left:0;
+	font-family:"arial", arial;
+	right:0;
+	clear:both;
+	padding:10px 0px 10px 0px;
+	border-style:outset; 
+}
+#reference{
+	font-style:italic;
+}
+#container{
+  width: 200px;
+  height: 200px;
+  position: relative;
+  background: #3D3D3D;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#animate{
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  background-color: #FFDA00;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#playBox {
+  background-color: #ad8d3a; 
+  color:#4b607d; 
+  border: 2px solid #4b607d;
+  border-radius: 8px; 
+  
+}
+
+#playBox:hover {
+  background-color: #8aaee0;
+  color: white;
+  border-radius: 8px; 
+}
+#links:link{
+	color: #6381a8;
+	background-color: #ad8d3a;
+	border-style: double;
+	border-radius: 8px;
+}
+#links:visited{
+	color: #4b607d;	
+}
+#links:hover{
+	color: #8aaee0;
+}
+#links:active{
+	color: #9fc7ff;
+}	
